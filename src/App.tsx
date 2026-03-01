@@ -1,4 +1,4 @@
-import { Sobremim2 } from './pages/Sobremim'
+import { Sobremim2 } from './pages/Sobremim2'
 import './app.css'
 import { Routes } from 'react-router-dom'
 import { Principal } from './pages/Principal'

@@ -1,5 +1,5 @@
 import { Header } from "../components/Header";
-import "./Sobremim2.css";
+import "./sobremim2.css";
 // import minhaFoto from "../../img/perfil.jpeg";
 import minhaFoto from "../img/logo10.jpeg";
 
